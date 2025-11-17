@@ -110,6 +110,7 @@ const Hero = () => {
           muted
           playsInline
           preload="auto"
+          className="rounded-[100%] w-full"
         ></video>
       </div>
     </>
